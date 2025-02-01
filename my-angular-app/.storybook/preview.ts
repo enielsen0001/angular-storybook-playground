@@ -8,7 +8,7 @@ const preview: Preview = {
     options: {
       storySort: {
         includeNames: true,
-        order: ['Documentation', 'Brand Identity', '*']
+        order: ['Documentation', ['Introduction', 'Configure your project'], 'Brand Identity', '*']
       }
     },
     controls: {
